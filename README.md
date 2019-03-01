@@ -1,9 +1,18 @@
 # Governance
 Documents, Issues, Projects pertaining to governance of the blockchain
 
-## [Current Status](https://github.com/CasperLabs/Governance/wiki/Current-Status)
+## [Current Development Status](https://github.com/CasperLabs/Governance/wiki/Current-Status)
 
-# What needs to be done
+## Governance Committe Meeting Information
+The next meeting is scheduled for Tuesday March 5th at 8:00 PM PST.  
+* Dial in Information: https://casperlabs.zoom.us/j/140470459
+
+Agenda:
+* Cadence of when the committee will meet
+* How we will communicate our outcomes & agendas
+
+
+# Backlog
 
 1. [A Proposed Model](https://github.com/CasperLabs/Governance/wiki/A-proposed-Governance-Model)
 2. Figure out how community developers are incentivized and compensated for their work: [Project Page](https://github.com/CasperLabs/Governance/projects/1):
