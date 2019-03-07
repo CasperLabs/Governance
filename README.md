@@ -4,12 +4,9 @@ Documents, Issues, Projects pertaining to governance of the blockchain
 ## [Current Development Status](https://github.com/CasperLabs/Governance/wiki/Current-Status)
 
 ## Governance Committe Meeting Information
-The next meeting is scheduled for Tuesday March 5th at 8:00 PM PST.  
-* Dial in Information: https://casperlabs.zoom.us/j/140470459
+We are running a poll to decide the day and time for the weekly meeting.
 
-Agenda:
-* Cadence of when the committee will meet
-* How we will communicate our outcomes & agendas
+[Meeting Notes and Recordings](https://github.com/CasperLabs/Governance/wiki/Governance-Committee-Meetings)
 
 
 # Backlog
