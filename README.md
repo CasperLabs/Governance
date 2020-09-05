@@ -7,5 +7,5 @@ Documents, Issues, Projects pertaining to governance of the blockchain
 
 * [A Proposed Model](https://github.com/CasperLabs/Governance/wiki/A-proposed-Governance-Model)
 * [Enhancement Proposal Repository](https://github.com/CasperLabs/ceps)
-* [Post Launch CEP workflow (Proposed Model](https://github.com/CasperLabs/Governance/wiki/Enhancement-Proposals)
+* [Post Launch CEP workflow (Proposed Model)](https://github.com/CasperLabs/Governance/wiki/Enhancement-Proposals)
 
